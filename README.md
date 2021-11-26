@@ -15,4 +15,3 @@ Simple api alquran
 
 3). cp .env.example .env
 
-4). migrate / import dari folder database
